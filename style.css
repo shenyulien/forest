@@ -3,10 +3,27 @@
     padding:0;
     border:0.5px solid rgba(255,0,0);
 }
-img{width:800px;}
+img{width:800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #content{background-color: rgba(250, 235, 215, 0.445);
     color: rgb(36, 34, 31);
     width:600px;
-
+    padding:50px 50px;
+    box-shadow: 0px 7px 6px rgba(0,0,0,0,3);
+    display:inline-block;
+    vertical-align: top; 
+   
 }
+#card{
+    margin: 150px auto 0px auto;
+    vertical-align: center; 
+    display:inline-block;  
+}
+h3{ text-align: center;
+    color:rgba(0, 0, 0, 0.089);
+    font-size:5em;
+    padding: 1px 0px;}
 
