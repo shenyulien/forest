@@ -4,7 +4,6 @@
     border:0.5px solid rgba(255,0,0);
 }
 img{width:800px;
-    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     
@@ -19,10 +18,12 @@ img{width:800px;
     vertical-align: top;
     word-spacing: 50px;
     
+    
    
 }
 #card{
     width:800px;
+    height: 530px;
     margin: 150px auto 0px 250px;
     padding: 0px 0px;
     display:inline-block; 
